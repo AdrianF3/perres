@@ -8,3 +8,9 @@ a {
 a:hover {
   color: #C13F3F;
 }
+
+
+.commonImgDiv img {
+  max-width: 200px;
+  height: auto;
+}
