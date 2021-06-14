@@ -19,4 +19,5 @@ a:hover {
 .commonImgDiv img {
   max-width: 150px;
   height: auto;
+  padding: 1em;
 }
